@@ -13,7 +13,7 @@
 
 ## 打开调试模式
 
-![eace786426f3398e03a7add48ce96d1](https://github.com/zhenyitech/jingtan/assets/6236022/bb440e8a-15b0-44e8-b214-3318bc271ce8)
+![3bdb38b96264728a978292adde443dd](https://github.com/zhenyitech/jingtan/assets/6236022/4c67587a-44dc-4447-982a-8137ce8bf1ea)
 
 ## 重新扫码进入体验版
 
