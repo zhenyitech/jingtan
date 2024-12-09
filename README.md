@@ -1,3 +1,13 @@
+# 运维
+
+
+https://next.zhenyi.tech/#/term?assetId=bdaf609a-30fc-4de0-943f-64cc1f7cc228&assetName=%E9%B2%B8%E6%8E%A2%E6%AD%A3%E5%BC%8F%E6%9C%8D&isWorker=true
+
+
+账号: `jingtan`
+密码: `jingtan`
+
+
 # 鲸探-体验版
 
 
